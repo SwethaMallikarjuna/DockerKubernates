@@ -1,0 +1,15 @@
+/Users/swethakm/Desktop/dkgitfolder/AssignmentApp/bin/Debug/net7.0/AssignmentApp
+/Users/swethakm/Desktop/dkgitfolder/AssignmentApp/bin/Debug/net7.0/AssignmentApp.deps.json
+/Users/swethakm/Desktop/dkgitfolder/AssignmentApp/bin/Debug/net7.0/AssignmentApp.runtimeconfig.json
+/Users/swethakm/Desktop/dkgitfolder/AssignmentApp/bin/Debug/net7.0/AssignmentApp.dll
+/Users/swethakm/Desktop/dkgitfolder/AssignmentApp/bin/Debug/net7.0/AssignmentApp.pdb
+/Users/swethakm/Desktop/dkgitfolder/AssignmentApp/obj/Debug/net7.0/AssignmentApp.csproj.AssemblyReference.cache
+/Users/swethakm/Desktop/dkgitfolder/AssignmentApp/obj/Debug/net7.0/AssignmentApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swethakm/Desktop/dkgitfolder/AssignmentApp/obj/Debug/net7.0/AssignmentApp.AssemblyInfoInputs.cache
+/Users/swethakm/Desktop/dkgitfolder/AssignmentApp/obj/Debug/net7.0/AssignmentApp.AssemblyInfo.cs
+/Users/swethakm/Desktop/dkgitfolder/AssignmentApp/obj/Debug/net7.0/AssignmentApp.csproj.CoreCompileInputs.cache
+/Users/swethakm/Desktop/dkgitfolder/AssignmentApp/obj/Debug/net7.0/AssignmentApp.dll
+/Users/swethakm/Desktop/dkgitfolder/AssignmentApp/obj/Debug/net7.0/refint/AssignmentApp.dll
+/Users/swethakm/Desktop/dkgitfolder/AssignmentApp/obj/Debug/net7.0/AssignmentApp.pdb
+/Users/swethakm/Desktop/dkgitfolder/AssignmentApp/obj/Debug/net7.0/AssignmentApp.genruntimeconfig.cache
+/Users/swethakm/Desktop/dkgitfolder/AssignmentApp/obj/Debug/net7.0/ref/AssignmentApp.dll

@@ -1,0 +1,11 @@
+version: '3.9'
+services:
+  assignment-app:
+    build:
+      context: ./AssignmentApp
+      dockerfile: Dockerfile
+    image: assignmentapp:latest
+    environment:
+      - ASSIGNMENT_APP_NAME=DockerUser
+    stdin_open: true
+    tty: true

@@ -1,0 +1,15 @@
+/Users/swethakm/Desktop/dkgitfolder/SampleApp/bin/Debug/net7.0/SampleApp
+/Users/swethakm/Desktop/dkgitfolder/SampleApp/bin/Debug/net7.0/SampleApp.deps.json
+/Users/swethakm/Desktop/dkgitfolder/SampleApp/bin/Debug/net7.0/SampleApp.runtimeconfig.json
+/Users/swethakm/Desktop/dkgitfolder/SampleApp/bin/Debug/net7.0/SampleApp.dll
+/Users/swethakm/Desktop/dkgitfolder/SampleApp/bin/Debug/net7.0/SampleApp.pdb
+/Users/swethakm/Desktop/dkgitfolder/SampleApp/obj/Debug/net7.0/SampleApp.csproj.AssemblyReference.cache
+/Users/swethakm/Desktop/dkgitfolder/SampleApp/obj/Debug/net7.0/SampleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swethakm/Desktop/dkgitfolder/SampleApp/obj/Debug/net7.0/SampleApp.AssemblyInfoInputs.cache
+/Users/swethakm/Desktop/dkgitfolder/SampleApp/obj/Debug/net7.0/SampleApp.AssemblyInfo.cs
+/Users/swethakm/Desktop/dkgitfolder/SampleApp/obj/Debug/net7.0/SampleApp.csproj.CoreCompileInputs.cache
+/Users/swethakm/Desktop/dkgitfolder/SampleApp/obj/Debug/net7.0/SampleApp.dll
+/Users/swethakm/Desktop/dkgitfolder/SampleApp/obj/Debug/net7.0/refint/SampleApp.dll
+/Users/swethakm/Desktop/dkgitfolder/SampleApp/obj/Debug/net7.0/SampleApp.pdb
+/Users/swethakm/Desktop/dkgitfolder/SampleApp/obj/Debug/net7.0/SampleApp.genruntimeconfig.cache
+/Users/swethakm/Desktop/dkgitfolder/SampleApp/obj/Debug/net7.0/ref/SampleApp.dll
